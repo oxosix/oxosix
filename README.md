@@ -17,8 +17,8 @@ Python, Go and Shell
 ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=shell&logoColor=white)
 
-![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
