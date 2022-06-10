@@ -17,13 +17,13 @@ Python, Go and Shell
 ![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-5C2D91?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=shell&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=shell&logoColor=white)
 
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/-SQL%20Server-6DB33F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)-->
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
+<!--![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)-->
+<!--![SQL_Server](https://img.shields.io/badge/-SQL%20Server-6DB33F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)-->
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
