@@ -2,7 +2,7 @@
 
 
 Welcome to my profile - Learning the following languages:
-Python, Go and Shell
+Python and Shell script
 
 <div align="center">
   <a href="https://github.com/d90ares">
