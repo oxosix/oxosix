@@ -5,7 +5,7 @@ Welcome to my profile - Learning the following languages:
 Python, Go and Shell
 
 <div align="center">
-  <a href="https://github.com/reinaldorossetti">
+  <a href="https://github.com/d90ares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d90ares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d90ares&layout=compact&langs_count=7&theme=dracula"/>
   </a>
