@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Welcome to my profile - Always Learnign Something...
+Welcome to my profile - Always Learning Something...
 
 <div align="center">
   <a href="https://github.com/d90ares">
