@@ -12,7 +12,7 @@ Welcome to my profile - I'm Always Learning Something...
 <br><br>
 
 <div style="display: inline_block; background-color: white">
-  <img align="center" alt="Dan-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Dan-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="background-color:white>
   <img align="center" alt="Dan-Sp" height="80" width="90" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg">
 </div>
 
@@ -34,7 +34,6 @@ Learning
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Shell](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=shell&logoColor=white)
-![AWS-FF9900](https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg)
 <!--![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)-->
 
 <!--![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)-->
