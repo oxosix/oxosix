@@ -13,7 +13,7 @@ Welcome to my profile - I'm Always Learning Something...
 
 <div style="display: inline_block; padding: 10px; background-color: white; border-radius: 5px;">
   <img align="center" alt="Dan-AWS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Dan-Sp" height="80" width="90" src="https://github.com/devicons/devicon/raw/master/icons/splunk/splunk-original-wordmark.svg">
+  <img align="center" alt="Dan-Sp" height="80" width="90" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg">
 </div>
 
 
