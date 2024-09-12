@@ -34,7 +34,7 @@ Learning
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Shell](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=shell&logoColor=white)
-![AWS](https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg)
+![AWS-FF9900](https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg)
 <!--![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)-->
 
 <!--![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)-->
