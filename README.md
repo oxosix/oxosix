@@ -12,7 +12,7 @@ Welcome to my profile - I'm Always Learning Something...
 <br><br>
 
 <div style="display: inline_block; background-color: white">
-  <img align="center" alt="Dan-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="background-color:white>
+  <img align="center" alt="Dan-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="background-color:white">
   <img align="center" alt="Dan-Sp" height="80" width="90" src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original-wordmark.svg">
 </div>
 
