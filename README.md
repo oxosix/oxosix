@@ -5,8 +5,8 @@ Welcome to my profile - I'm Always Learning Something...
 
 <div align="center">
   <a href="https://github.com/oxosix">
-  <img height="150em" src="https://vercel-p9lm-7jrhmeewb-oxosixs-projects.vercel.app/api?username=oxosix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://vercel-p9lm-7jrhmeewb-oxosixs-projects.vercel.app/api/top-langs/?username=oxosix&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://vercel-p9lm.vercel.app/api?username=oxosix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://vercel-p9lm.vercel.app/api/top-langs/?username=oxosix&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 <br><br>
