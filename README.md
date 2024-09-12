@@ -4,9 +4,9 @@
 Welcome to my profile - I'm Always Learning Something...
 
 <div align="center">
-  <a href="https://github.com/d90ares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d90ares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d90ares&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/oxosix">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxosix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxosix&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 <br><br>
