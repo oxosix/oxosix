@@ -11,7 +11,7 @@ Welcome to my profile - I'm Always Learning Something...
 </div>
 <br><br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background-color: white; padding: 10px; border-radius: 5px;"><br>
   <img align="center" alt="Dan-AWS-" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Dan-Sp" height="80" width="90" src="https://github.com/devicons/devicon/raw/master/icons/splunk/splunk-original-wordmark.svg">
 <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
